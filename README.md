@@ -1,5 +1,7 @@
 ## Firebase Authentication Module
 
+Click Here for the [DEMO](https://firebase-auth-tester.netlify.com/) :computer:
+
 This project was done for fun. To learn how to integrate firebase authentication into a React App. You can clone this and start expanding this project or add more features. If you have time :bowtie:
 
 ## How to start
