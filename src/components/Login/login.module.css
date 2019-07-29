@@ -1,0 +1,34 @@
+.switchText {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.loginContainer {
+  max-width: 400px;
+  margin: 0 auto;
+}
+.screenTitle {
+  text-align: center;
+}
+
+.btn {
+  padding: 15px !important;
+  height: auto;
+  margin: 10px auto !important;
+  width: 100%;
+  font-size: 20px !important;
+}
+.text {
+  margin: 20px 0 !important;
+}
+.btnContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.inputContainer {
+  display: flex;
+  align-items: center;
+}
